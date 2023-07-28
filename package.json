@@ -21,9 +21,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/resume",
+    "homepage": "https://sunilc18.github.io/sunilc-resume-site/",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-resume/issues",
+        "url": "https://sunilc18.github.io/sunilc-resume-site/",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -33,7 +33,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-resume.git"
+        "url": "https://sunilc18.github.io/sunilc-resume-site.git"
     },
     "dependencies": {
         "bootstrap": "5.2.3"
